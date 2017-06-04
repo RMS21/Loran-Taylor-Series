@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1449693114 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449579431 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/get_num_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449680292 /home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/head.h
+
+1449578535 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/compute_fraction_realpart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449658073 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/get_denominator_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449658836 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/convert_root_poly.c
+	<stdio.h>
+	<string.h>
+	"head.h"
+
+1449669509 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/compute_poly.c
+	<stdio.h>
+	"head.h"
+
+1449690451 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/operation.c
+	<stdio.h>
+
+1449692246 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/compute_denominator_poly.c
+	<stdio.h>
+	"head.h"
+
+1449690491 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/compute_numerator_poly.c
+	<stdio.h>
+	"head.h"
+
+1449692667 source:/home/rms/Desktop/C_Codes/Code_Blocks/Mthematic/separate.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449692246 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/compute_denominator_poly.c
+	<stdio.h>
+	"head.h"
+
+1449693286 /home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/head.h
+
+1449578534 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/compute_fraction_realpart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449690490 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/compute_numerator_poly.c
+	<stdio.h>
+	"head.h"
+
+1449658836 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/convert_root_poly.c
+	<stdio.h>
+	<string.h>
+	"head.h"
+
+1449658072 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/get_denominator_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449579430 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/get_num_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449690450 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/operation.c
+	<stdio.h>
+
+1449692666 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/separate.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1449759842 source:/home/rasoul/Desktop/C_Codes/Code_Blocks/Mthematic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449692246 source:/home/rasoul/Mthematic/compute_denominator_poly.c
+	<stdio.h>
+	"head.h"
+
+1452849406 /home/rasoul/Mthematic/head.h
+
+1452411908 source:/home/rasoul/Mthematic/compute_fraction_realpart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449690490 source:/home/rasoul/Mthematic/compute_numerator_poly.c
+	<stdio.h>
+	"head.h"
+
+1452341867 source:/home/rasoul/Mthematic/convert_root_poly.c
+	<stdio.h>
+	<string.h>
+	"head.h"
+
+1452243336 source:/home/rasoul/Mthematic/get_denominator_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452240055 source:/home/rasoul/Mthematic/get_num_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452431464 source:/home/rasoul/Mthematic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449690450 source:/home/rasoul/Mthematic/operation.c
+	<stdio.h>
+
+1452244899 source:/home/rasoul/Mthematic/separate.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452458022 source:/home/rasoul/Mthematic/produce_loran_series.c
+	<stdio.h>
+	"head.h"
+
+1452429817 source:/home/rasoul/Mthematic/produce_taylor_series.c
+	<stdio.h>
+	"head.h"
+
+1452426402 source:/home/rasoul/Mthematic/save.c
+
+1452944954 source:/home/rasoul/Desktop/Mthematic/compute_denominator_poly.c
+	<stdio.h>
+	"head.h"
+
+1452933729 /home/rasoul/Desktop/Mthematic/head.h
+
+1452411908 source:/home/rasoul/Desktop/Mthematic/compute_fraction_realpart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449690490 source:/home/rasoul/Desktop/Mthematic/compute_numerator_poly.c
+	<stdio.h>
+	"head.h"
+
+1452341867 source:/home/rasoul/Desktop/Mthematic/convert_root_poly.c
+	<stdio.h>
+	<string.h>
+	"head.h"
+
+1452243336 source:/home/rasoul/Desktop/Mthematic/get_denominator_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452240055 source:/home/rasoul/Desktop/Mthematic/get_num_poly.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452935547 source:/home/rasoul/Desktop/Mthematic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1449690450 source:/home/rasoul/Desktop/Mthematic/operation.c
+	<stdio.h>
+
+1452888457 source:/home/rasoul/Desktop/Mthematic/produce_loran_series.c
+	<stdio.h>
+	"head.h"
+
+1452887003 source:/home/rasoul/Desktop/Mthematic/produce_taylor_series.c
+	<stdio.h>
+	"head.h"
+
+1452933705 source:/home/rasoul/Desktop/Mthematic/save.c
+	<stdio.h>
+	"head.h"
+
+1452945171 source:/home/rasoul/Desktop/Mthematic/separate.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1452850900 source:/home/rasoul/Desktop/Mthematic/produce_area.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
